@@ -1,0 +1,62 @@
+{
+	"name": [
+		"Black Bortles",
+		"Leonard Fournette",
+		"Calais Campbell",
+		"Keelan Cole",
+		"Austin Seferian-Jenkins",
+		"Telvin Smith"
+	],
+	"occupation": [
+		"Quarterback",
+		"Runningback",
+		"Cornerback",
+		"Defensive Lineman",
+		"Wide Receiver",
+		"Tightend",
+		"Linebacker"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this Sunday's game to be #exciting#! The Jaguars are #expecting# the #fans# to be #wild#! #article#"
+	],
+	"always": [
+		"consistently",
+		"regularly",
+		"perpetually",
+		"repeatedly",
+		"constantly"
+	],
+	"expecting": [
+		"anticipating",
+		"waiting for",
+		"predicting",
+		"awaiting"
+	],
+	"exciting": [
+		"breathtaking",
+		"dramatic",
+		"exciting",
+		"thrilling",
+		"lively",
+		"electrifying",
+		"titillating"
+	],
+	"fans": [
+		"crowd",
+		"fans",
+		"sellout",
+		"crew",
+		"stadium",
+		"people",
+		"party"
+	],
+	"wild": [
+		"wild",
+		"loud",
+		"crazy",
+		"rambunctious"
+	],
+	"article": [
+		"http://www.jacksonville.com/news/metro/2018-01-19/it-s-duval-vs-all-y-all-jaguars-fans-rally-ahead-sunday-s-championship-game"
+	]
+}
